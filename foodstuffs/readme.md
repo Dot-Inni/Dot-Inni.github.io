@@ -5,7 +5,7 @@ in a game about doing just that. This page is for my
 personal testing purposes and updating.
 
 [Live version](https://bluehexagons.com/foodguide) or
-[github.io - testing purposes](https://Dot-Inni.github.io/foodguide/html/index.htm)
+[github.io - testing purposes](https://Dot-Inni.github.io/foodstuffs/html/index.htm)
 
 Contributors:
   [bluehexagons](https://github.com/bluehexagons)

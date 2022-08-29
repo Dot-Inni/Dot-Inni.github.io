@@ -1,10 +1,10 @@
-# [Don't Starve Food Guide](https://bluehexagons.com/foodguide)
+# Don't Starve Food Guide
 
 Provides some tools for avoiding starvation
 in a game about doing just that.
 
 [Live version](https://bluehexagons.com/foodguide) or
-[github.io](https://bluehexagons.github.io/foodguide/html/index.htm)
+[github.io - testing purposes](https://Dot-Inni.github.io/foodguide/html/index.htm)
 
 Contributors:
   [bluehexagons](https://github.com/bluehexagons)

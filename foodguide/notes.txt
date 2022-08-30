@@ -27,7 +27,7 @@ Hunger/Nourishment values:
 2.3 [75/32???]
 4.6875 [75/16]
 9.375 [calories_tiny,75/8]
-10
+10 [75 * (2/15)]
 12.5 [calories_small,75/6]
 18.5
 18.75 [calories_medsmall, 75/4]
@@ -36,7 +36,7 @@ Hunger/Nourishment values:
 56.25 [75/(4/3)]
 62.5 [75/1.2]
 75 [calories_huge, 75/1]
-112.5
+112.5 [75 * 1.5]
 150 [calories_superhuge, 75*2]
 450
 

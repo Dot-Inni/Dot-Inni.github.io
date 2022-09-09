@@ -71,3 +71,35 @@ Perish time:
 40
 18750
 Never
+
+Missing foods (base/ingredients):
+Crop Seeds
+Fire Nettle Fronds
+Gears(?)
+Hatching Tallbird Egg
+Tillweeds
+Wet Goop
+Winter Koalefant Trunk
+Milky Whites
+Cooked Fish(? - Cooked Fish Morsel)
+Fig
+Cooked Fig
+Charred Nostrils
+Naked Nostrils
+
+Missing Recipes (Crockpot):
+Amberosia
+Banana Shake
+Bunny Stew
+Frozen Banana Daiquiri
+Milkmade Hat
+Vegetable Stinger (not spicy)
+Figatoni
+Figgy Frogwich
+Figkabab
+Fig-Stuffed Trunk
+
+Technically missing from Warly/Portable Crockpot:
+Fresh Fruit Crepes
+Monster Tartare
+

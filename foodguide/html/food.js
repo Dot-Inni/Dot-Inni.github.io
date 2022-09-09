@@ -2237,5 +2237,19 @@ export const food = {
 		sanity: sanity_supertiny,
 		stack: stack_size_smallitem,
 		mode: 'together'
+	},
+
+	// New Foods that hadn't been added yet
+	firenettles: {
+		name: 'Fire Nettle Fronds',
+		health: -healing_small,
+		hunger: 0,
+		sanity: -sanity_small,
+		perish: perish_superfast,
+		veggie: 1,
+		stack: stack_size_smallitem,
+		note: 'Toxic for non-plantkin',
+		mode: 'together'
+
 	}
 };
